@@ -15,3 +15,4 @@ script that copies all html files into the parent folder
 moves all files beginning ith uppercase to another directory
 deletes all files in the current directory that begins with ~
 creating three linked directories
+script that lists all the files and the directory of the file separated by commas
