@@ -12,3 +12,4 @@ script that sets the mode of a file to the mode of anothers
 script that adds execute permission to all sub directories
 script that creates a directory with permissions 751
 script that changes the group owner to school from hello
+script that changes the owner and group owner for all files and directories in the working directories
