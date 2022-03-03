@@ -14,3 +14,4 @@ script that prints the type of a file
 script that copies all html files into the parent folder
 moves all files beginning ith uppercase to another directory
 deletes all files in the current directory that begins with ~
+creating three linked directories
