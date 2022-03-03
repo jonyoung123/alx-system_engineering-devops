@@ -9,3 +9,5 @@ script to move a file to another directory
 deletes the file from a directory
 script to deletes a directory
 script that changes working directory to previous one
+scripts that lists all files in the current, parent and boot directories
+script that prints the type of a file 
