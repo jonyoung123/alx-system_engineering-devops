@@ -9,3 +9,4 @@ script that adds execution permission to the owner , group owner and other users
 script that set permission to a file
 script that sets the mode of a file to executable
 script that sets the mode of a file to the mode of anothers
+script that adds execute permission to all sub directories
