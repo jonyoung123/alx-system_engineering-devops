@@ -15,3 +15,4 @@ script that changes the group owner to school from hello
 script that changes the owner and group owner for all files and directories in the working directories
 script that changes owner and the group owner of files
 script that changes the owner of a file to another if a condition is satisfied
+script that plays a movie in the terminal
