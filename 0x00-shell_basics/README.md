@@ -12,3 +12,4 @@ script that changes working directory to previous one
 scripts that lists all files in the current, parent and boot directories
 script that prints the type of a file 
 script that copies all html files into the parent folder
+moves all files beginning ith uppercase to another directory
