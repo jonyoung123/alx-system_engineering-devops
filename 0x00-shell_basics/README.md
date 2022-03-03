@@ -5,3 +5,4 @@ displays current directory content in a long format
 displays the current directory files with hidden files in long format
 displays current directory eith hidden files and users id displayed numerically in long format
 script that creates a directory in another directory
+script to move a file to another directory
