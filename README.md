@@ -1,1 +1,1 @@
-this repository is for alx software engineering devops using shell basics
+a script that prints the absolute path name of the current working directory.
