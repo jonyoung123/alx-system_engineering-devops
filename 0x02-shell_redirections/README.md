@@ -3,3 +3,4 @@ script that displays a confused smiley
 script to display the content of a file
 script to display the content of two files
 script to print the last lines in a file
+script to print the first lines in a file
