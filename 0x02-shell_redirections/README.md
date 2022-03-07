@@ -17,3 +17,4 @@ script to count the numbers of lines in a file
 script to display lines containing a Pattern
 script to display lines that do not contain a pattern
 script to display all lines in a file starting with a capital letter
+script to replace all charaters with some character
