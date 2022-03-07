@@ -11,3 +11,4 @@ script that duplicates tthe last line in a file
 script that deletes every javascript files
 script to make directory count
 script that creates the 10 newest files in the current directory
+script to print out unique wordsnin a file
