@@ -13,3 +13,4 @@ script to make directory count
 script that creates the 10 newest files in the current directory
 script to print out unique wordsnin a file
 script to display line according to a pattern
+script to count the number of lines in a file 
