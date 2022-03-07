@@ -4,3 +4,4 @@ script to display the content of a file
 script to display the content of two files
 script to print the last lines in a file
 script to print the firstlines in a file
+script to print the third line in a file
