@@ -14,3 +14,6 @@ script that creates the 10 newest files in the current directory
 script to print out unique wordsnin a file
 script to display line according to a pattern
 script to count the numbers of lines in a file 
+script to display lines containing a Pattern
+script to display lines that do not contain a pattern
+script to display all lines in a file starting with a capital letter
