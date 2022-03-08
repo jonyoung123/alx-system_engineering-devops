@@ -20,3 +20,4 @@ script to display all lines in a file starting with a capital letter
 script to replace all charaters with some character
 script that removes all letters c and C from input.
 script that reverses its input
+script that displays all users and their home directories, sorted by users.
